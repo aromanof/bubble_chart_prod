@@ -75,3 +75,15 @@ a, a:visited, a:active {
 .footer {
   text-align: center;
 }
+
+.bubble{
+  cursor: pointer;
+}
+
+text{
+  cursor: pointer;
+}
+
+.header__info{
+  font-size: 16px;
+}

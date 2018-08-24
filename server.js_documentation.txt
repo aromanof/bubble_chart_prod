@@ -1,0 +1,5 @@
+1. Open your command prompt and go to the server folder.
+2. Run the command 'node server.js'
+3. After that the server will host on port 3000(set by default).
+4. When the server is open(it will write the message in the command prompt) 
+you can click on bubbles and get the result.
